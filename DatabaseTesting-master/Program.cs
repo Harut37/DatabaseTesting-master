@@ -11,7 +11,7 @@ namespace DatabaseTesting
     class Program
     {
       
-        private static string ConnectionString = @"Server=AMISCOMPUTER\SQLEXPRESS;Database=Cloth;Trusted_Connection=true;";
+        private static string ConnectionString = @"Server=HARGUS\SQLEXPRESS;Database=Cloth;Trusted_Connection=true;";
 
         static void Main(string[] args)
         {
